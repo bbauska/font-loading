@@ -37,6 +37,7 @@ html<link rel="preconnect" href="https://fonts.googleapis.com">
 ```
 
 ## Summary Comparison
+
 | Method | Impact | Best For |
 | font-display: swap | Immediate text visibility | General use; prevents "invisible" text. |
 | Media Hack         | Non-blocking 			 | External swap stylesheets (Google Fonts). |
