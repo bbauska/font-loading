@@ -1,9 +1,9 @@
 ```
 @font-face {
-  font-family: "bahnschrift";
+  font-family: Bahnschrift;
   src:
-    url("bahnschrift-webfont.woff2") format("woff2"),
-    url("bahnschrift-webfont.woff") format("woff");
+    url("Bahnschrift-webfont.woff2") format("woff2"),  /* NO i don't think so */
+    url("Bahnschrift-webfont.woff") format("woff");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
